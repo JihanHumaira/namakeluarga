@@ -1,5 +1,5 @@
 # namakeluarga
 
-1. ayah : dasril
-2. ibu : farida
+ayah = dasril
+ibu = farida
 
